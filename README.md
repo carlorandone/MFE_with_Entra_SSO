@@ -1,5 +1,5 @@
 # MFE_with_Entra_SSO
-Demo for the Medium article on React Micro Frontends with SSO on Entra ID
+Demo for the Medium article on React Micro Frontends with SSO on Entra ID.
 
 To start the two applications (the SCPortal host and the BSWebApp “remote”) you can follow these steps:
 From the “BSWebApp” (the “remote”) root folder run the command:
